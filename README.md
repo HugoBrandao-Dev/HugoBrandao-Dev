@@ -14,7 +14,7 @@
 
 <div align="center" width="100%">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=ADS 2026 IFRO+-+Vilhena" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=ADS+2026+IFRO+-+Vilhena" alt="Typing SVG"/>
   
 </div>
 
