@@ -23,10 +23,10 @@
 <br>
 <br>
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoBrandao-Dev&theme=darcula&animation=rgb&name=Hugo+da+Rocha+Brand%C3%A3o) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HugoBrandao-Dev&theme=darcula&animation=rgb&utcOffset=0) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoBrandao-Dev&theme=synthwave&animation=sequence&name=Hugo+da+Rocha+Brand%C3%A3o) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HugoBrandao-Dev&theme=synthwave&animation=sequence&utcOffset=0) |
 | :-: | :-: |
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HugoBrandao-Dev&theme=darcula&animation=rgb) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HugoBrandao-Dev&theme=darcula&animation=rgb) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HugoBrandao-Dev&theme=darcula&animation=rgb) | 
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HugoBrandao-Dev&theme=synthwave&animation=sequence) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HugoBrandao-Dev&theme=synthwave&animation=sequence) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HugoBrandao-Dev&theme=synthwave&animation=sequence) |
 | :-: | :-: | :-: |
 
 <div align="center" style="display: inline_block"><br>
